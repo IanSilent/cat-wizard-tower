@@ -1,8 +1,10 @@
 # Cat Wizard Tower (Башня кота-волшебника)
 
-**Play in the browser: https://iansilent.github.io/cat-wizard-tower/**
-
 A cozy web prototype: a cat wizard lives in a mage tower and runs a small library of magic folios.
+
+[![Cat Wizard Tower: the raven has brought an order](docs/screenshot.jpg)](https://iansilent.github.io/cat-wizard-tower/)
+
+**[▶ Play in the browser](https://iansilent.github.io/cat-wizard-tower/)** · mouse · UI in Russian
 
 ## The loop
 
